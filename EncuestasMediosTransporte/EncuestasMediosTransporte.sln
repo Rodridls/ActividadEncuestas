@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33529.622
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasCMD", "EncuestasCMD\EncuestasCMD.csproj", "{C34AC50C-A46F-4559-8A80-9A693796875E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuentasLib", "EncuentasLib\EncuentasLib.csproj", "{E0A6B79B-AC55-4063-ACA3-5187440B791C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A6B79B-AC55-4063-ACA3-5187440B791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A6B79B-AC55-4063-ACA3-5187440B791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A6B79B-AC55-4063-ACA3-5187440B791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A6B79B-AC55-4063-ACA3-5187440B791C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
